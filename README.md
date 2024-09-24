@@ -54,7 +54,7 @@ Technologies Used
 
 	•	React.js for building the user interface.
 	•	HTML5 and CSS3 for structure and styling.
-	•	jspdf or another JavaScript library for generating PDF files client-side.
+	•	jspdf for generating PDF files client-side.
 
 Contributing
 
