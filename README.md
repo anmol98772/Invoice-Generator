@@ -39,7 +39,9 @@ stallation
    npm install
 
    	4.	Start the development server:
-    npm start
+      npm start
+    
+  
     
 	5.	Open your browser and go to http://localhost:3000.
 
@@ -58,14 +60,9 @@ Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions or find any bugs.
 
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Contact
 
 If you have any questions or feedback, please contact me at:
-Email: your.email@example.com
-GitHub: yourusername
+anmoldhamot@gmail.com
 
 This version reflects the app being a front-end only application with no backend server or database involved. Let me know if you need to include more details!
